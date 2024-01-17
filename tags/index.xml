@@ -1,0 +1,32 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - 标签 - Riiicc的博客</title>
+        <link>https://riiicc31.github.io/tags/</link>
+        <description>Tags - 标签 - Riiicc的博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>riiicc31@gmail.com (riiicc)</managingEditor>
+            <webMaster>riiicc31@gmail.com (riiicc)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 01 Dec 2023 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://riiicc31.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>HTML</title>
+    <link>https://riiicc31.github.io/tags/html/</link>
+    <pubDate>Fri, 01 Dec 2023 21:57:40 &#43;0800</pubDate>
+    <author>riiicc</author>
+    <guid>https://riiicc31.github.io/tags/html/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Markdown</title>
+    <link>https://riiicc31.github.io/tags/markdown/</link>
+    <pubDate>Fri, 01 Dec 2023 21:57:40 &#43;0800</pubDate>
+    <author>riiicc</author>
+    <guid>https://riiicc31.github.io/tags/markdown/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>emoji</title>
+    <link>https://riiicc31.github.io/tags/emoji/</link>
+    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
+    <author>riiicc</author>
+    <guid>https://riiicc31.github.io/tags/emoji/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
